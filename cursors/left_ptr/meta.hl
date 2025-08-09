@@ -1,0 +1,11 @@
+resize_algorithm = bilinear
+
+hotspot_x = 0.1
+hotspot_y = 0.5
+
+# override many cursor names with this shape
+define_override = left_ptr;default;arrow;text;hand2;wait;crosshair;grab;grabbing
+
+# sizes (must match actual files)
+define_size = 64, image64.png
+define_size = 32, image32.png
