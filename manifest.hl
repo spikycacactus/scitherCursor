@@ -1,0 +1,4 @@
+name = MyCursorTheme
+description = My custom Hyprcursor theme
+version = 0.1
+cursors_directory = cursors
