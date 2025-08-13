@@ -4,7 +4,7 @@ hotspot_x = 0.1
 hotspot_y = 0.5
 
 # override many cursor names with this shape
-define_override = left_ptr;default;arrow;text;wait;crosshair
+define_override = hand;pointer;link;pointing_hand;hover;grab;grabbing
 
 # sizes (must match actual files)
 define_size = 64, image64.png
